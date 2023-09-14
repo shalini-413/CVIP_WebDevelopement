@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "xiosbase": "cpp",
+        "ostream": "cpp"
+    }
+}
